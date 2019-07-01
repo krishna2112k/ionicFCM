@@ -1,0 +1,7 @@
+{
+  "name": "IonicFCM",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
